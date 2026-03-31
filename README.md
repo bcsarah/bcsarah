@@ -1,16 +1,20 @@
-## Hi there 👋
+## 💻 Hello, Coder!
+🇧🇷 I'm Sarah Aurora — a Brazilian Open-Source Enthusiast!
 
-<!--
-**bcsarah/bcsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🧠 About Me
+- 🐧 Using **NixOS**, with **Hyprland** + **Neovim**
+- 🎓 2nd year Technical Course in &&Systems Development**
+- 💻 Focused in **Backend Development**
+- 🌱 Currently learning **TypeScript**
+- 🚀 Working on **no-light-below** (my personal project)
 
-Here are some ideas to get you started:
+---
+## 🔧 Interests
+- ⚙️ Building projects for personal use or fun
+- 📚 Learning new technologies and sharing knowledge
+- 💡 Turning ideas into real projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## ❤️ With Love
+> “Code is more than logic — it's creativity, persistence, and a ~~lot~~ little bit of magic.” ✨
