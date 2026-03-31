@@ -1,5 +1,5 @@
 ## 💻 Hello, Coder!
-🇧🇷 I'm Sarah Aurora — a Brazilian Open-Source Enthusiast!
+- 🇧🇷 I'm Sarah Aurora — a Brazilian Open-Source Enthusiast!
 
 ## 🧠 About Me
 - 🐧 Using **NixOS**, with **Hyprland** + **Neovim**
