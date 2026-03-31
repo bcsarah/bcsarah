@@ -3,7 +3,7 @@
 
 ## 🧠 About Me
 - 🐧 Using **NixOS**, with **Hyprland** + **Neovim**
-- 🎓 2nd year Technical Course in &&Systems Development**
+- 🎓 2nd year Technical Course in **Systems Development**
 - 💻 Focused in **Backend Development**
 - 🌱 Currently learning **TypeScript**
 - 🚀 Working on **no-light-below** (my personal project)
