@@ -2,7 +2,7 @@
 - 🇧🇷 I'm Sarah Aurora — a Brazilian Open-Source Enthusiast!
 
 ## 🧠 About Me
-- 🐧 Using **NixOS**, with **Hyprland** + **Neovim**
+- 🐧 Using **Archlinux**, with **i3wm** + **nvim** & **tmux**
 - 🎓 2nd year Technical Course in **Systems Development**
 - 💻 Focused in **Backend Development**
 - ☕ Currently learning **Java**
