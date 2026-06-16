@@ -14,7 +14,7 @@
 - 🎓 2nd year Technical Course in **Systems Development**
 - 💻 Focused in **Backend Development**
 - 🌐 Currently learning **HTML/CSS**
-- 🚀 Working on **nugedis-md** and **an-cli-app**
+- 🚀 Working on **nugedis-md** and **do-py**
 
 ## 🔧 Interests
 - ⚙️ Building projects for personal use or fun
