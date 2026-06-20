@@ -1,6 +1,4 @@
 # 💻 Hello, Coder!
-
-## 🧠 About Me
 - 🇧🇷 I'm **Sarah Aurora**, ascending my **coding journey!**
 - 🐧 Using Linux since **July 2025**
 - 🎓 2nd year Technical Course in **Systems Development**
