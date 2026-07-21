@@ -4,7 +4,7 @@
 - 🎓 2nd year Technical Course in **Systems Development**
 - 💻 Focused in **Backend Development**
 - 🌐 Currently learning **HTML/CSS**
-- 🚀 Working on **nugedis-md** and **zettelkasten-tui**
+- 🚀 Working on **nugedis-md**
 
 ## 🔧 Interests
 - ⚙️ Building projects for personal use or fun
