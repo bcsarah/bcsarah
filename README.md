@@ -1,10 +1,10 @@
 # 💻 Hello, Coder!
-- 🇧🇷 I'm **Sarah Aurora**, ascending my **coding journey!**
+- 🇧🇷 I'm **Sarah Aurora**, an **Open-Source Enthusiast!**
 - 🐧 Using Linux since **September 2025**
 - 🎓 2nd year Technical Course in **Systems Development**
-- 💻 Focused in **Backend Development**
-- 🌐 Currently learning **HTML/CSS**
-- 🚀 Working on **nugedis-md**
+- 💻 Focused in **Front-End Development**
+- 🌐 Currently learning **C & JS**
+- 🚀 Working on **do-c**
 
 ## 🔧 Interests
 - ⚙️ Building projects for personal use or fun
