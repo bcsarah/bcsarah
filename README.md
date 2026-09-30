@@ -2,7 +2,7 @@
 - 🇧🇷 I'm **Sarah Aurora**, an **Open-Source Enthusiast!**
 - 🐧 Using Linux since **September 2025**
 - 🎓 2nd year Technical Course in **Systems Development**
-- 💻 Focused in **Front-End Development**
+- 💻 Focused in **Back-End Development**
 - 🌐 Currently learning **C & JS**
 - 🚀 Working on **do-c**
 
