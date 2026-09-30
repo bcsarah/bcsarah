@@ -4,7 +4,7 @@
 - 🎓 2nd year Technical Course in **Systems Development**
 - 💻 Focused in **Back-End Development**
 - 🌐 Currently learning **C & JS**
-- 🚀 Working on **do-c**
+- 🚀 Working on **cclock**
 
 ## 🔧 Interests
 - ⚙️ Building projects for personal use or fun
