@@ -11,7 +11,7 @@
   <li>2nd year student in the Technical Course of <b>Systems Development</b></li>
   <li>Focused on <b>Back-End Development</b></li>
   <li>Currently learning <b>C & JS</b></li>
-  <li>Working on <a href="https://github.com/bcsarah/cclock">cclock</a></li>
+  <li>Working on <a href="https://github.com/bcsarah/cdo">cdo</a></li>
 </ul>
 
 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=bcsarah&theme=gruvbox&mode=daily" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=bcsarah&theme=gruvbox&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 
